@@ -92,11 +92,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "CrazyIvy",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/971d1e04329945cb8c6028fa5578287c"
 		}
 	]
 }
